@@ -1,75 +1,82 @@
-<h1 align="center">Hi 👋, I'm Ghansham Deepak Gavande</h1>
-<h3 align="center">A Passionate Website Developer | UI/UX Designer | Freelancer | Data Analyst </h3>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  Hi, I'm Ghansham Deepak Gavande
+</h1>
+
+<h3 align="center">
+  🚀 Passionate Website Developer | UI/UX Designer | Freelancer | Data Analyst  
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=26A1D8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Website+Development+Expert;UI%2FUX+Design+Specialist;Freelancer+for+Travel+%26+Tourism+Industry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=26A1D8&center=true&vCenter=true&width=650&lines=🚀+Full-Stack+Website+Developer;🎨+UI%2FUX+Design+Specialist;🌍+Freelancer+for+Travel+%26+Tourism;📊+Data+Analyst+%7C+Machine+Learning+Enthusiast;💡+Building+Innovative+Digital+Solutions" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🌐 **Connect with Me**
-- 💼 [My Portfolio](https://ghanshamgavande.com)  
-- 📧 Email: ghansham.gavande@example.com  
-- 📱 LinkedIn: [Ghansham Gavande](https://linkedin.com/in/ghansham-gavande)  
-- 🐦 Twitter: [@GhanshamTweets](https://twitter.com/GhanshamTweets)  
-
----
-
-### 💻 **Tech Stack**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)  
-
----
-
-### 🚀 **What I Do**
-- 🌐 **Website Development**  
-- 🎨 **UI/UX Design**  
-- 💳 **Payment Integration (Razorpay)**  
-- 📱 **Responsive Web Design**  
-- 🖥️ **Prototyping & 3D Animation**  
-
----
-
-### 📈 **GitHub Stats**
+## 🌐 **Connect with Me**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GhanshamDeepakGavande&show_icons=true&theme=radical" alt="Ghansham's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GhanshamDeepakGavande&theme=radical" alt="Ghansham's Streak" />
+  <a href="https://ghanshamgavande.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="mailto:ghansham.gavande@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/ghansham-gavande" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/GhanshamTweets" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </p>
 
 ---
 
-### 📊 **Most Used Languages**
+## 💻 **Tech Stack**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanshamDeepakGavande&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,bootstrap,figma,git,github,vscode" />
 </p>
 
 ---
 
-### 🛠️ **Tools I Use**
-- 🖥️ **Visual Studio Code**  
-- 🌐 **GitHub**  
-- ⚙️ **Figma**  
-- 🛠️ **Adobe XD**  
-- 🔐 **Razorpay Integration**  
+## 🚀 **What I Do**
+- 🌐 **Website Development** (Full Stack)
+- 🎨 **UI/UX Design & Wireframing**
+- 💳 **Payment Gateway Integration (Razorpay)**
+- 📱 **Responsive Web Design**
+- 🎭 **3D Animation & Prototyping**
+- 🛠️ **Machine Learning & Data Analysis**
 
 ---
 
-### 🎯 **Get in Touch**
-💬 Feel free to **reach out** for **collaborations** or **freelance projects**. Let’s build something amazing together!
-
----
-
-### 📢 **GitHub Profile Visitors**
+## 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=GhanshamDeepakGavande" alt="visitor badge"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GhanshamDeepakGavande&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GhanshamDeepakGavande&theme=radical" />
 </p>
 
 ---
 
-### 🚀 **Fun Fact**
-🎵 I love playing **Bansuri (Flute)** during my free time!
+## 📊 **Most Used Languages**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhanshamDeepakGavande&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 🛠️ **Tools I Use**
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Design%20Tool-Figma-purple?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prototyping-Adobe%20XD-red?style=flat-square&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payment%20Gateway-Razorpay-blue?style=flat-square&logo=razorpay&logoColor=white" />
+</p>
+
+---
+
+## 🎯 **Let's Collaborate**
+💬 Open to exciting **collaborations** & **freelance projects**. Let’s build something amazing together!  
+
+---
+
+## 🚀 **Fun Fact**
+🎵 I play **Bansuri (Flute)** in my free time!  
+
+---
+
+## 📢 **GitHub Profile Visitors**
+<p align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=GhanshamDeepakGavande" alt="Visitor Badge"/>
+</p>
